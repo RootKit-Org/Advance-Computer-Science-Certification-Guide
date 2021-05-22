@@ -90,7 +90,7 @@
   * `cap()`
   * `copy()`
   * `make()`
-  * `append()` 
+  * `append()`
 
 ### 8. Structs
   * Attributes
@@ -121,6 +121,9 @@
   * `panic()`
   * `close()`
   * `recover()`
+
+### 11. Effective Go Style Guide
+  * Format code according to Effective Go page on goland.org
 
 ### 11. Tasks
   * Create variables
