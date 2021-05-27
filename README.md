@@ -9,6 +9,8 @@ ProCyber certificate is a **_COMPLETE_** alternative to receiving Computer Scien
 ## Table of Contents
 Items are listed in the recommended order of completion.
 
+[Software Design](Software Design) \
+[Containerization](Containerization) \
 [Docker](Docker)\
 [Go](Go)
 
